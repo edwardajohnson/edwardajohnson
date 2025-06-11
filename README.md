@@ -1,1 +1,64 @@
-# edwardajohnson
+## 👋 Edward A. Johnson
+
+**AI Strategy Consultant | Technology Leader | Program Director**  
+**Toronto, Canada**  
+📫 edward.johnson@ikinique.com | 🌐 [LinkedIn](https://www.linkedin.com/in/edwardjohnson)
+
+---
+
+## 💼 About Me
+
+I'm a forward-thinking **Technology & Program Management Executive** with 20+ years of experience leading global teams, transforming complex enterprises, and deploying cutting-edge solutions in **AI, FinTech, Retail, Capital Markets, and Healthcare**.
+
+Currently an **AI Strategy Consultant at PRAKTIKAI**, I help organizations demystify AI and implement **human-centered, ethical, and scalable** AI strategies. I’ve successfully led programs for Fortune 500 firms and agile product development for startups.
+
+---
+
+## 🧠 Expertise Snapshot
+
+- **AI/ML Strategy & Implementation** – Roadmaps, ROI, Azure/Cloud AI, ethical frameworks  
+- **Enterprise Technology Transformation** – Retail systems, infrastructure modernization, governance  
+- **Program/Portfolio Management** – Budgets $5–25M, global delivery, vendor and stakeholder orchestration  
+- **Blockchain & FinTech** – DEFI, smart contracts, credit scoring platforms  
+- **Data & Analytics** – POCs/MVPs, data platforms, BI dashboards, ML pipelines  
+- **Leadership** – Cross-functional teams, change management, mentoring, talent development
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Cloud & Infrastructure**: Microsoft Azure, GCP, ServiceNow, Juniper, Cisco  
+- **Dev & PM Tools**: JIRA, Confluence, Notion, MS Project, Git  
+- **AI/ML**: Python, GANs, NLP, blockchain, data synthesis, MLflow  
+- **Methodologies**: Agile, Scrum, ITIL, SDLC, PMP
+
+---
+
+## 📢 Talks & Contributions
+
+- **Mentor** – PMI Toronto Chapter, Warwick MBA, Seneca College Fintech PAC  
+- **Speaker** – AI ethics, blockchain, tech careers (RBC, George Brown, VolunteerTO)  
+- **Community** – Co-led Toronto Baseball Hackday (AI/ML competition)  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced LLM applications  
+- RAG (Retrieval Augmented Generation) architectures  
+- Explainable AI (XAI) frameworks for business stakeholders
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 edward.johnson@ikinique.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/edwardjohnson)  
+- 🧠 [OpenSea NFTs](https://opensea.io/Shotspur) (Just for fun!)
+
+---
+
+> *“Technology should always serve people — never the other way around.”*  
+> — Edward A. Johnson
+
+
