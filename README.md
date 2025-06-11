@@ -54,7 +54,6 @@ Currently an **AI Strategy Consultant at PRAKTIKAI**, I help organizations demys
 
 - 📧 edward.johnson@ikinique.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/edwardjohnson)  
-- 🧠 [OpenSea NFTs](https://opensea.io/Shotspur) (Just for fun!)
 
 ---
 
