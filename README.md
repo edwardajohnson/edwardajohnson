@@ -36,14 +36,15 @@ Currently an **AI Strategy Consultant at PRAKTIKAI**, I help organizations demys
 
 ## 📢 Talks & Contributions
 
-- **Mentor** – PMI Toronto Chapter, Warwick MBA, Seneca College Fintech PAC  
-- **Speaker** – AI ethics, blockchain, tech careers (RBC, George Brown, VolunteerTO)  
+- **Mentor** – PMI Toronto Chapter, Warwick MBA, Seneca Polytechnic Fintech PAC  
+- **Speaker** – AI ethics, blockchain, tech careers (RBC, Seneca Polytechnic,George Brown, VolunteerTO)  
 - **Community** – Co-led Toronto Baseball Hackday (AI/ML competition)  
 
 ---
 
 ## 🌱 Currently Learning
 
+- Building on Hedera Hashgraph Developer Certification
 - Advanced LLM applications  
 - RAG (Retrieval Augmented Generation) architectures  
 - Explainable AI (XAI) frameworks for business stakeholders
