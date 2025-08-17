@@ -6,7 +6,7 @@
 
 ---
 
-## 💼 About Me
+## 💼 About Me (try aivoxveri.com.... now running)
 
 I'm a forward-thinking **Technology & Program Management Executive** with 20+ years of experience leading global teams, transforming complex enterprises, and deploying cutting-edge solutions in **AI, FinTech, Retail, Capital Markets, and Healthcare**.
 
