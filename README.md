@@ -17,7 +17,7 @@ Currently an **AI Strategy Consultant at PRAKTIKAI**, I help organizations demys
 ## 🧠 Expertise Snapshot
 
 - **AI/ML Strategy & Implementation** – Roadmaps, ROI, Azure/Cloud AI, ethical frameworks  
-- **Enterprise Technology Transformation** – Retail systems, infrastructure modernization, governance  
+- **Enterprise Technology Transformation** – Finance, Retail systems, infrastructure modernization, governance  
 - **Program/Portfolio Management** – Budgets $5–25M, global delivery, vendor and stakeholder orchestration  
 - **Blockchain & FinTech** – DEFI, smart contracts, credit scoring platforms  
 - **Data & Analytics** – POCs/MVPs, data platforms, BI dashboards, ML pipelines  
