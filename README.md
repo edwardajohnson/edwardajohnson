@@ -44,7 +44,9 @@ Currently an **AI Strategy Consultant at PRAKTIKAI**, I help organizations demys
 
 ## 🌱 Currently Learning
 
-- Building on Hedera Hashgraph Developer Certification
+- Microsoft DP-600 Fabric Data Analyst cerification by Dec 2025
+- Nov 2025 Completed Hedera Asension Hackathon building AgroTrack-Lite v2
+- Oct 2025 Completed the Hedera Hashgraph Developer Certification
 - Advanced LLM applications  
 - RAG (Retrieval Augmented Generation) architectures  
 - Explainable AI (XAI) frameworks for business stakeholders
