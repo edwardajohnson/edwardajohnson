@@ -27,7 +27,7 @@ Currently an **AI Strategy Consultant at PRAKTIKAI**, I help organizations demys
 
 ## 🛠️ Technologies & Tools
 
-- **Cloud & Infrastructure**: Microsoft Azure, GCP, ServiceNow, Juniper, Cisco  
+- **Cloud & Infrastructure**: Microsoft Fabric, Azure, GCP, ServiceNow, Juniper, Cisco  
 - **Dev & PM Tools**: JIRA, Confluence, Notion, MS Project, Git  
 - **AI/ML**: Python, GANs, NLP, blockchain, data synthesis, MLflow  
 - **Methodologies**: Agile, Scrum, ITIL, SDLC, PMP
