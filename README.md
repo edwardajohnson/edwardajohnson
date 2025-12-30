@@ -1,6 +1,6 @@
 ## 👋 Edward A. Johnson
 
-**AI Strategy Consultant | Technology Leader | Program Director**  
+**Principal AI Strategist & Product Manager (TariffEdge) | Technology Leader | Program Director**  
 **Toronto, Canada**  
 📫 edward.johnson@ikinique.com | 🌐 [LinkedIn](https://www.linkedin.com/in/edwardjohnson)
 
