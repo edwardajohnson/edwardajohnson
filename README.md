@@ -10,7 +10,7 @@
 
 I'm a forward-thinking **Technology & Program Management Executive** with 20+ years of experience leading global teams, transforming complex enterprises, and deploying cutting-edge solutions in **AI, FinTech, Retail, Capital Markets, and Healthcare**.
 
-Currently an **AI Strategy Consultant at PRAKTIKAI**, I help organizations demystify AI and implement **human-centered, ethical, and scalable** AI strategies. I’ve successfully led programs for Fortune 500 firms and agile product development for startups.
+Currently an **Principal AI Strategist & Product Manager (TariffEdge) at PRAKTIKAI**, I help organizations demystify AI and implement **human-centered, ethical, and scalable** AI strategies. I’ve successfully led programs for Fortune 500 firms and agile product development for startups.
 
 ---
 
