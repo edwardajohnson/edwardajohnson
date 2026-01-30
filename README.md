@@ -19,7 +19,7 @@ Currently an **Principal AI Strategist & Product Manager (TariffEdge) at PRAKTIK
 - **AI/ML Strategy & Implementation** – Roadmaps, ROI, Azure/Cloud AI, ethical frameworks  
 - **Enterprise Technology Transformation** – Finance, Retail systems, infrastructure modernization, governance  
 - **Program/Portfolio Management** – Budgets $5–25M, global delivery, vendor and stakeholder orchestration  
-- **Blockchain & FinTech** – AI DEPIN, DEFI, smart contracts, credit scoring platforms  
+- **Blockchain & FinTech** – AI DEPIN, DEFI, smart contracts, credit scoring platforms, Hedera, CRONOS x402  
 - **Data & Analytics** – POCs/MVPs, data platforms, BI dashboards, ML pipelines  
 - **Leadership** – Cross-functional teams, change management, mentoring, talent development
 
@@ -27,7 +27,7 @@ Currently an **Principal AI Strategist & Product Manager (TariffEdge) at PRAKTIK
 
 ## 🛠️ Technologies & Tools
 
-- **Cloud & Infrastructure**: Microsoft Fabric, Azure, GCP, ServiceNow, Juniper, Cisco  
+- **Cloud & Infrastructure**: Microsoft Fabric, Azure, GCP, ServiceNow, Cisco, Pi  
 - **Dev & PM Tools**: JIRA, Confluence, Notion, MS Project, Git  
 - **AI/ML**: Python, GANs, NLP, blockchain, data synthesis, MLflow  
 - **Methodologies**: Agile, Scrum, ITIL, SDLC, PMP
@@ -38,13 +38,14 @@ Currently an **Principal AI Strategist & Product Manager (TariffEdge) at PRAKTIK
 
 - **Mentor** – PMI Toronto Chapter, Warwick MBA, Seneca Polytechnic Fintech PAC  
 - **Speaker** – AI ethics, blockchain, tech careers (RBC, Seneca Polytechnic,George Brown, VolunteerTO)  
-- **Community** – Co-led Toronto Baseball Hackday (AI/ML competition)  
+- **Community** – Co-led Toronto Baseball Hackday (AI/ML competition), Canadian SME Podcast  
 
 ---
 
 ## 🌱 Currently Learning
 
-- Microsoft DP-600 Fabric Data Analyst cerification by Dec 2025
+- Microsoft DP-600 Fabric Data Analyst cerification by Apr 2026
+- Jan 2026 Completed CRONOS x402 Micro Research Agentic solution 
 - Nov 2025 Completed Hedera Asension Hackathon building AgroTrack-Lite v2
 - Oct 2025 Completed the Hedera Hashgraph Developer Certification
 - Advanced LLM applications  
