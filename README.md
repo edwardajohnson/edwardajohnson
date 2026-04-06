@@ -36,7 +36,7 @@ Currently an **Principal AI Strategist & Product Manager (TariffEdge) at PRAKTIK
 
 ## 📢 Talks & Contributions
 
-- **Mentor** – PMI Toronto Chapter, Warwick MBA, Seneca Polytechnic Fintech PAC  
+- **Mentor** – PMI Toronto Chapter, Warwick MBA, Seneca Polytechnic Finance PAC  
 - **Speaker** – AI ethics, blockchain, tech careers (RBC, Seneca Polytechnic,George Brown, VolunteerTO)  
 - **Community** – Co-led Toronto Baseball Hackday (AI/ML competition), Canadian SME Podcast  
 
@@ -45,6 +45,7 @@ Currently an **Principal AI Strategist & Product Manager (TariffEdge) at PRAKTIK
 ## 🌱 Currently Learning
 
 - Microsoft DP-600 Fabric Data Analyst cerification by Apr 2026
+- Hedera Hashgraph Certified Business Practitioner/ Certified Hedera Domain Expert by Nov 2026
 - Jan 2026 Completed CRONOS x402 Micro Research Agentic solution 
 - Nov 2025 Completed Hedera Asension Hackathon building AgroTrack-Lite v2
 - Oct 2025 Completed the Hedera Hashgraph Developer Certification
